@@ -102,3 +102,7 @@ ENV/
 
 # mavproxy log files
 mav.*
+
+# pycharm files
+.idea/
+.idea/*

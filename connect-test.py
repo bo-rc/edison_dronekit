@@ -1,5 +1,3 @@
-#!/home/bo/miniconda3/envs/dronekit/bin/python
-
 import time
 from dronekit import connect, VehicleMode
 
